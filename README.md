@@ -18,7 +18,8 @@ captcha not identified i'm not a human
 </div>
 
 <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Norallma&show_icons=true&theme=shadow_red"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norallma&layout=compact&theme=shadow_red">
+  <img src="https://github-readme-stats.vercel.app/api?username=Norallma&show_icons=true&theme=shadow_red"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norallma&layout=compact&theme=shadow_red">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norallma/Norallma/output/github-contribution-grid-snake-dark.svg">
