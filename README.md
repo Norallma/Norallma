@@ -1,16 +1,18 @@
-## Hi there 👋
+## ꧁ঔৣ☬✞ Norallma ✞☬ঔৣ꧂
 
-<!--
-**Norallma/Norallma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/736x/54/a7/59/54a759f4ef740565d2c557ac7de43a42.jpg" width="362" height="121">
 
-Here are some ideas to get you started:
+i'm not a human
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我不是人類
+
+Я не человек.
+
+<div>
+<img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
+
+</div>
+
