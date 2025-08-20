@@ -15,6 +15,7 @@ i'm not a human
 <img align="center" alt="godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
 
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=Norallma&show_icons=true&theme=shadow_red">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norallma/Norallma/output/github-contribution-grid-snake-dark.svg">
